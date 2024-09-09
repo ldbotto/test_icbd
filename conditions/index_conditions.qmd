@@ -1,0 +1,85 @@
+---
+  title: "by congenital condition"
+  toc: true
+---
+
+### What you will find here
+
+In these views, congenital conditions are presented one at the time, with data from all programs.
+
+The structure is simple:
+
+-   programs are grouped by *geography* (which usually is correlated with country income level)
+-   within each geography, programs are listed by *decreasing prevalence* of the condition
+
+*Comparison among programs are tricky*, however, and must be interpreted with great care. and background knowledge.
+
+-   More often than not, variations in rates are related to differences in *methodology* rather than in true occurrence (birth prevalence). In particular, note whether terminations of pregnancy or stillbirths are included or well ascertained, the number and sources of data, and the structure of ascertainment (e.g., population vs. hospital based).
+-   The charts provide two methodologic markers of each program (whether population- or hospital-based, and whether they include terminations of pregnancy), but be sure to review the methods of each program to avoid misinterpreting these charts.
+
+### Neural tube defects
+
+-   [neural tube defects](conditions_icbd_neural%20tube%20defects,%20total.html)
+-   [anencephaly](conditions_icbd_anencephaly.html)
+-   [spina bifida](conditions_icbd_spina%20bifida.html)
+-   [encephalocele](conditions_icbd_encephalocele.html)
+-   [holoprosencephaly](conditions_icbd_holoprosencephaly.html)
+-   [hydrocephaly](conditions_icbd_hydrocephaly.html)
+
+### Eye, ear, nose anomalies
+
+-   [microphthalmia](conditions_icbd_microphthalmos.html)
+-   [anophthalmia](conditions_icbd_anophthalmos.html)
+-   [microtia](conditions_icbd_microtia.html)
+-   [anotia](conditions_icbd_anotia.html)
+-   [choanal atresia, bilateral](conditions_icbd_choanal%20atresia%20bilateral.html)
+
+### Orofacial clefts
+
+-   [cleft lip with or without cleft palate](conditions_icbd_cleft%20lip%20with%20or%20without%20cleft%20palate.html)
+-   [cleft palate without cleft lip](conditions_icbd_cleft%20palate%20without%20cleft%20lip.html)
+
+### Critical congenital heart disease
+
+-   [tetralogy of fallot](conditions_icbd_tetralogy%20of%20fallot.html)
+-   [transposition of great vessels](conditions_icbd_transposition%20of%20great%20vessels.html)
+-   [hypoplastic left heart syndrome](conditions_icbd_hypoplastic%20left%20heart%20syndrome.html)
+-   [coarctation of aorta](conditions_icbd_coarctation%20of%20aorta.html)
+
+### Limb anomalies
+
+-   [limb deficiency, total](conditions_icbd_limb%20deficiency%20(ld),%20total.html)
+-   [transverse deficiency](conditions_icbd_ld%20transverse.html)
+-   [preaxial deficiency](conditions_icbd_ld%20preaxial.html)
+-   [postaxial deficiency](conditions_icbd_ld%20postaxial.html)
+-   [axial deficiency](conditions_icbd_ld%20axial.html)
+-   [intercalary deficiency](conditions_icbd_ld%20intercalary.html)
+-   [mixed limb deficiency](conditions_icbd_ld%20mixed.html)
+-   [unspecified limb deficiency](conditions_icbd_ld%20unspec..html)
+-   [polydactyly, preaxial](conditions_icbd_polydactyly%20preaxial.html)
+
+### Gastrointestinal anomalies
+
+-   [esophageal atresia](conditions_icbd_esophageal%20atresia.html)
+-   [small intestinal atresia or stenosis](conditions_icbd_small%20intestinal%20atresia_stenosis.html)
+-   [anorectal atresia_stenosis](conditions_icbd_anorectal%20atresia_stenosis.html)
+
+### Abdominal and genital anomalies
+
+-   [gastroschisis](conditions_icbd_gastroschisis.html)
+-   [omphalocele](conditions_icbd_omphalocele.html)
+-   [diaphragmatic hernia](conditions_icbd_diaphragmatic%20hernia.html)
+-   [bladder exstrophy](conditions_icbd_bladder%20exstrophy.html)\
+-   [hypospadias](conditions_icbd_hypospadias.html)
+
+### Renal anomalies
+
+-   [cystic kidney](conditions_icbd_cystic%20kidney.html)
+-   [renal agenesis](conditions_icbd_renal%20agenesis.html)
+-   [prune belly sequence](conditions_icbd_prune%20belly%20sequence.html)
+
+### Chromosomal anomalies
+
+-   [Down syndrome](conditions_icbd_down%20syndrome.html)
+-   [Trisomy 13](conditions_icbd_trisomy%2013.html)
+-   [Trisomy 18](conditions_icbd_trisomy%2018.html)

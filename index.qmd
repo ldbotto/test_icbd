@@ -1,0 +1,19 @@
+---
+title: "Welcome to the 2024 Report"
+---
+
+### What the report is about
+
+The report includes information from **31 programs** that are members of the International Clearinghouse for Birth Defect Surveillance and Research.
+
+These programs unselfishly **share data, experience, and expertise** to reduce the impact of congenital anomalies. Congenital anomalies affect hundreds of millions of families worldwide. Sharing data is one way to shine the light on these conditions and generate action for better care and primary prevention.
+
+### How we present the information
+
+[**by Program**](progs/index_progs.html)
+
+-   This view includes a broad view of congenital anomalies as reported within each program, in relation to key indicators of the country where the program operates.
+
+[**by Condition**](conditions/index_conditions.html)
+
+-   This view looks at each conditions across programs. However, comparisons between programs are tricky. Much and perhaps most of the variation is likely due to differences in program methods and operations rather than to true rate difference. Think methodology before thinking of biology before going too far in interpreting the findings. The view by program (above) is a good place to get more information about methods and commentary from program directors.
