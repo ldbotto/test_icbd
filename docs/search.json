@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "progs/index_progs.html",
+    "href": "progs/index_progs.html",
+    "title": "by program",
+    "section": "",
+    "text": "Congenital conditions and their local context\nIn this section, each program provides information on wide range of major congenital anomalies, enriched with data on demographic indicators and risk factor prevalence in the underlying population. In addition, program leaders provide comments and additional background that help give context and meaning to the findings.\nInformation from the program and from the country (the latter from multiple additional sources) is used to generate estimates of significant public health relevance, such as the estimated number of cases attributable to common modifiable risk factors in the program and in the country. Short texts guide the reader through the tables and graphs, highlighting key points and methodologic issues for consideration.\n\n\nEurope\n\nCzech Republic\nFinland\nFrance REMERA\nFrance Brittany\nFrance Paris\nGermany Saxony Anhalt\nItaly Campania BDRCam\nItaly Emilia Romagna IMER\nItaly Lombardy CMRL\nItaly Tuscany RTDC\nItaly Veneto\nMalta MCAR\nNorthern Netherlands\nSlovak Republic\nSweden\nUk NCARDRS\nUkraine OMNI Net\n\n\n\nMiddle East & Asia\n\nIran TRoCA\nIsrael IBDSP\n\n\n\nOceania\n\nNew Zealand\n\n\n\nCentral and South America\n\nArgentina RENAC\nChile RENACH\nColombia Bogotà\nColombia Cali\nCosta Rica CREC\nMexico RYVEMCE\nSouth America ECLAMC\n\n\n\nNorth America\n\nCanada Alberta ACASS\nCanada National CCASS\nUSA Iowa IRCID\nUSA Texas BDES"
+  },
+  {
+    "objectID": "conditions/index_conditions.html",
+    "href": "conditions/index_conditions.html",
+    "title": "by congenital condition",
+    "section": "",
+    "text": "What you will find here\nIn these views, congenital conditions are presented one at the time, with data from all programs.\nThe structure is simple:\n\nprograms are grouped by geography (which usually is correlated with country income level)\nwithin each geography, programs are listed by decreasing prevalence of the condition\n\nComparison among programs are tricky, however, and must be interpreted with great care. and background knowledge.\n\nMore often than not, variations in rates are related to differences in methodology rather than in true occurrence (birth prevalence). In particular, note whether terminations of pregnancy or stillbirths are included or well ascertained, the number and sources of data, and the structure of ascertainment (e.g., population vs. hospital based).\nThe charts provide two methodologic markers of each program (whether population- or hospital-based, and whether they include terminations of pregnancy), but be sure to review the methods of each program to avoid misinterpreting these charts.\n\n\n\nNeural tube defects\n\nneural tube defects\nanencephaly\nspina bifida\nencephalocele\nholoprosencephaly\nhydrocephaly\n\n\n\nEye, ear, nose anomalies\n\nmicrophthalmia\nanophthalmia\nmicrotia\nanotia\nchoanal atresia, bilateral\n\n\n\nOrofacial clefts\n\ncleft lip with or without cleft palate\ncleft palate without cleft lip\n\n\n\nCritical congenital heart disease\n\ntetralogy of fallot\ntransposition of great vessels\nhypoplastic left heart syndrome\ncoarctation of aorta\n\n\n\nLimb anomalies\n\nlimb deficiency, total\ntransverse deficiency\npreaxial deficiency\npostaxial deficiency\naxial deficiency\nintercalary deficiency\nmixed limb deficiency\nunspecified limb deficiency\npolydactyly, preaxial\n\n\n\nGastrointestinal anomalies\n\nesophageal atresia\nsmall intestinal atresia or stenosis\nanorectal atresia_stenosis\n\n\n\nAbdominal and genital anomalies\n\ngastroschisis\nomphalocele\ndiaphragmatic hernia\nbladder exstrophy\n\nhypospadias\n\n\n\nRenal anomalies\n\ncystic kidney\nrenal agenesis\nprune belly sequence\n\n\n\nChromosomal anomalies\n\nDown syndrome\nTrisomy 13\nTrisomy 18"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "welcome to the ICBDSR report on congenital anomalies, 2024 edition.\nThis edition includes reports from 31 birth defect programs in 20 countries."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the 2024 Report",
+    "section": "",
+    "text": "What the report is about\nThe report includes information from 31 programs that are members of the International Clearinghouse for Birth Defect Surveillance and Research.\nThese programs unselfishly share data, experience, and expertise to reduce the impact of congenital anomalies. Congenital anomalies affect hundreds of millions of families worldwide. Sharing data is one way to shine the light on these conditions and generate action for better care and primary prevention.\n\n\nHow we present the information\nby Program\n\nThis view includes a broad view of congenital anomalies as reported within each program, in relation to key indicators of the country where the program operates.\n\nby Condition\n\nThis view looks at each conditions across programs. However, comparisons between programs are tricky. Much and perhaps most of the variation is likely due to differences in program methods and operations rather than to true rate difference. Think methodology before thinking of biology before going too far in interpreting the findings. The view by program (above) is a good place to get more information about methods and commentary from program directors."
+  }
+]
