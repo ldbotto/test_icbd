@@ -1,0 +1,56 @@
+---
+title: "by program"
+toc: true
+---
+
+### Congenital conditions and their local context
+
+In this section, each program provides information on wide range of major congenital anomalies, enriched with data on *demographic indicators* and *risk factor prevalence* in the underlying population. In addition, program leaders provide c**omments and additional background** that help give context and meaning to the findings.
+
+Information from the program and from the country (the latter from multiple additional sources) is used to generate estimates of significant public health relevance, such as the *estimated number of cases attributable to common modifiable risk factors* in the program and in the country. Short texts guide the reader through the tables and graphs, highlighting key points and methodologic issues for consideration.
+
+### **Europe**
+
+-   [Czech Republic](CZEP.html)
+-   [Finland](FINP.html)
+-   [France REMERA](FRAR.html)
+-   [France Brittany](FRAB.html)
+-   [France Paris](FRAP.html)
+-   [Germany Saxony Anhalt](DEUS.html)
+-   [Italy Campania BDRCam](ITAC.html)
+-   [Italy Emilia Romagna IMER](ITAE.html)
+-   [Italy Lombardy CMRL](ITAL.html)
+-   [Italy Tuscany RTDC](ITAT.html)
+-   [Italy Veneto](ITAV.html)
+-   [Malta MCAR](MLTM.html)
+-   [Northern Netherlands](NLDN.html)
+-   [Slovak Republic](SVKP.html)
+-   [Sweden](SWED.html)
+-   [Uk NCARDRS](GBRN.html)
+-   [Ukraine OMNI Net](UKRO.html)
+
+### **Middle East & Asia**
+
+-   [Iran TRoCA](IRNT.html)
+-   [Israel IBDSP](ISRI.html)
+
+### **Oceania**
+
+-   [New Zealand](NZLP.html)
+
+### **Central and South America**
+
+-   [Argentina RENAC](ARGR.html)
+-   [Chile RENACH](CHLR.html)
+-   [Colombia Bogotà](COLB.html)
+-   [Colombia Cali](COLC.html)
+-   [Costa Rica CREC](CRIC.html)
+-   [Mexico RYVEMCE](MEXR.html)
+-   [South America ECLAMC](SAME.html)
+
+### **North America**
+
+-   [Canada Alberta ACASS](CANA.html)
+-   [Canada National CCASS](CANC.html)
+-   [USA Iowa IRCID](USAI.html)
+-   [USA Texas BDES](USAT.html)
